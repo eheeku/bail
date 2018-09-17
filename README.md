@@ -1,3 +1,3 @@
 # bail
 
-[1](https://img.shields.io/pypi/pyversions/requests.svg)
+![build](https://img.shields.io/pypi/pyversions/requests.svg)
