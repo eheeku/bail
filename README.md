@@ -6,5 +6,5 @@
 ## Building from source
 Operating system | Status
 ---------------- | ----------
-ubuntu 16.04 | ![build](https://img.shields.io/travis/com/:eheeky/:bail/:dev.svg)
+ubuntu 16.04 | ![build](https://img.shields.io/travis/com/:eheeky/:bail/:dev.svg)  
 ![Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
