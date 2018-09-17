@@ -4,7 +4,7 @@
 ## Contract
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 ## Building from source
+![Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
 Operating system | Status
 ---------------- | ----------
 ubuntu 16.04 | ![build](https://img.shields.io/travis/com/:eheeky/:bail/:dev.svg)  
-![Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
